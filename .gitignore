@@ -1,0 +1,20 @@
+/unpackage
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.fseventsd
+
+# Misc
+*.attr
+*.exe
+*.log
+*.old
+*.swp
+*.test
+.vagrant/
+/pkg
+bin/
+changelog.tmp
+Thumbs.db

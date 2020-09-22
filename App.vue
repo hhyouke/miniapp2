@@ -12,6 +12,11 @@
 	}
 </script>
 
-<style>
-	/*每个页面公共css */
+<style lang="scss">
+@import './style/common.scss';
+page {
+	height: 100%;
+	background-color: #f5f5f5;
+	font-size: $uni-font-size-base;
+}
 </style>
